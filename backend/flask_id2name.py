@@ -1,0 +1,10 @@
+id2name = {0: 'Snow_Tower',
+ 1: 'Bean_green',
+ 2: 'Two_Joe',
+ 3: 'Drunk_Yang_Fei',
+ 4: 'Luoyang_Red',
+ 5: 'Qinglong_lying_in_ink_pool',
+ 6: 'Wei_Zi',
+ 7: 'Yao_Huang',
+ 8: 'Royal_Yellow',
+ 9: 'Zhao_Fan'}

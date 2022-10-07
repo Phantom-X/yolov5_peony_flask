@@ -1,0 +1,37 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2021-10-16T02:18:48.550598",
+    "startedAt": "2021-10-16T02:18:41.727600",
+    "docker": null,
+    "gpu": "TITAN Xp",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--data",
+        "data/voc_ball.yaml",
+        "--cfg",
+        "models/yolov5s_ball.yaml",
+        "--weights",
+        "weights/yolov5s.pt",
+        "--batch-size",
+        "16",
+        "--epochs",
+        "50",
+        "--workers",
+        "4"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/ultralytics/yolov5",
+        "commit": "0000334a6faa431d1714d2751eb4c548acacbc1f"
+    },
+    "email": null,
+    "root": "D:/yolov5",
+    "host": "DESKTOP-FIJPR13",
+    "username": "Bai Yong",
+    "executable": "C:\\Users\\Bai Yong\\.conda\\envs\\mypytorch\\python.exe"
+}
