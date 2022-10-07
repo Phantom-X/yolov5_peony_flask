@@ -6,7 +6,9 @@
 意力机制加入yolov5主干网络，在并结合实际数据改变输入图像尺寸，优化算法，进行数据增强等训练策略。如下图所示
 是我们加入各注意力机制时的模型特征提取能力对比：	
 
+![image-20221008005024255.png](https://github.com/PH-botHQ/yolov5_peony_flask/blob/master/readme.assets/image-20221008005024255.png)
 
- 		可以看出，在主干网络Darknet53中加入CBAM模块特征提取能力显著增强，最终模型识别牡丹种类的平均精度相比原始yolov5提升了3%。
-
-<img src="tuo-zhuai.assets/image-20221008005221286.png" alt="image-20221008005221286" style="zoom:150%;" />
+可以看出，在主干网络Darknet53中加入CBAM模块特征提取能力显著增强，最终模型识别牡丹种类的平均精度相比原始yolov5提升了3%。
+<div align=center>
+<img src="https://github.com/PH-botHQ/yolov5_peony_flask/blob/master/readme.assets/image-20221008005221286.png"/>
+</div>
